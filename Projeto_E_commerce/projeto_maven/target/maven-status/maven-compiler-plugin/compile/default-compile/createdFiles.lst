@@ -1,0 +1,5 @@
+org\example\model\Pessoa.class
+org\example\App.class
+org\example\service\PessoaService.class
+org\example\resource\PessoaResource.class
+org\example\repository\PessoaRepository.class
